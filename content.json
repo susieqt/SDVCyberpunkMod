@@ -1,0 +1,150 @@
+{
+  "Format": "1.4",
+  "Changes": [
+       {
+          "Action": "EditImage",
+          "Target": "Minigames/TitleButtons",
+          "FromFile": "assets/TitleButtons.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Abigail",
+          "FromFile": "assets/abigail.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Leah",
+          "FromFile": "assets/leah.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Lewis",
+          "FromFile": "assets/lewis.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Haley",
+          "FromFile": "assets/haley.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Alex",
+          "FromFile": "assets/alex.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Sebastian",
+          "FromFile": "assets/sebastian.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Emily",
+          "FromFile": "assets/emily.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Shane",
+          "FromFile": "assets/shane.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Eliott",
+          "FromFile": "assets/Eliott.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Maru",
+          "FromFile": "assets/maru.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Harvey",
+          "FromFile": "assets/harvey.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Penny",
+          "FromFile": "assets/penny.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Portraits/Sam",
+          "FromFile": "assets/sam.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Portraits/Pam",
+          "FromFile": "assets/pam.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Abigail",
+          "FromFile": "assets/sprites/abigail.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Leah",
+          "FromFile": "assets/sprites/leah.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Lewis",
+          "FromFile": "assets/sprites/lewis.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Haley",
+          "FromFile": "assets/sprites/haley.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Alex",
+          "FromFile": "assets/sprites/alex.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Sebastian",
+          "FromFile": "assets/sprites/sebastian.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Emily",
+          "FromFile": "assets/sprites/emily.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Shane",
+          "FromFile": "assets/sprites/shane.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Eliott",
+          "FromFile": "assets/sprites/Eliott.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Maru",
+          "FromFile": "assets/sprites/maru.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Harvey",
+          "FromFile": "assets/sprites/harvey.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Penny",
+          "FromFile": "assets/sprites/penny.png"
+       },
+       {
+          "Action": "Load",
+          "Target":"Characters/Sam",
+          "FromFile": "assets/sprites/sam.png"
+       },
+	          {
+          "Action": "Load",
+          "Target":"Characters/Pam",
+          "FromFile": "assets/sprites/pam.png"
+       }
+    ]
+}

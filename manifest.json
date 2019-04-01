@@ -1,0 +1,10 @@
+{
+   "Name": "Cyberpunk",
+   "Author": "susieq",
+   "Description": "you bumbling idiot. you absolute buffoon.",
+   "Version": "1.0",
+   "UniqueID": "susieq.sonichu",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}
